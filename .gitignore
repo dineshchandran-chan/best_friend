@@ -1,0 +1,12 @@
+# Backend
+bf_backend/venv/
+bf_backend/__pycache__/
+bf_backend/*.pyc
+bf_backend/.env
+
+# Frontend
+bf_frontend/node_modules/
+bf_frontend/dist/
+
+# Common
+.DS_Store
